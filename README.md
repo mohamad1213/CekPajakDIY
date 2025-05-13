@@ -6,7 +6,7 @@ Aplikasi web sederhana untuk mengecek data pajak kendaraan berdasarkan **Nomor P
 
 ## 📸 Tampilan Awal
 
-![screenshot](esamsat.png)
+![screenshot](preview.png)
 ---
 
 ## 📦 Fitur
